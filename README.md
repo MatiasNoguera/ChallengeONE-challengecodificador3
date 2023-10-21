@@ -1,4 +1,4 @@
-#Encriptador de texto / Text Encryptor
+# Encriptador de texto / Text encryptor.
 
 Encriptador de texto. Cambia las vocales por las siguientes palabras. 
 e ---> enter / 
